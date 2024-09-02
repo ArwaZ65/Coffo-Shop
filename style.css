@@ -863,7 +863,7 @@ ul li{
     list-style: none;
     /* display: flex; */
 }
-ul{
+.news-info ul{
     display: flex;
     flex-direction: row;
     gap: 1rem;
